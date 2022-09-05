@@ -14,16 +14,16 @@ const filme = {
 
 // respostas aqui ⬇️
 
-//a
+//a-
 console.log('Nome do primeiro ator/atriz é: ', filme.elenco[0])
 
-//b
-console.log('Nome do ultimo ator/atriz é: ', filme.elenco[(filme.elenco.length-1)])
+//b-
+console.log('Nome do ultimo ator/atriz é: ', filme.elenco[3])
 
-//c
+//c-
 console.log('Todas as transmissões de hoje: ', filme.transmissoesHoje)
 
-//d
+//d-
 console.log('Horário do filme de transmissão no Canal Brasil: ', filme.transmissoesHoje[1].horario)
 
 
