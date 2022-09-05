@@ -18,7 +18,7 @@ const filme = {
 console.log('Nome do primeiro ator/atriz é: ', filme.elenco[0])
 
 //b-
-console.log('Nome do ultimo ator/atriz é: ', filme.elenco[3])
+console.log('Nome do ultimo ator/atriz é: ', filme.elenco[(filme.elenco.length-1)])
 
 //c-
 console.log('Todas as transmissões de hoje: ', filme.transmissoesHoje)
